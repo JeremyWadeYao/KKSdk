@@ -1,0 +1,3 @@
+include ':KKCore'
+include ':app'
+rootProject.name = "KKSdk"
